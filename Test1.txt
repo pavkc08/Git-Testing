@@ -5,17 +5,3 @@ Commit into staging branch.
 
 GitHub gui testing
 
-
-Feature Branch Test1
-
-Feature Branch Test2
-
-Feature Branch Test3
-
-Feature Branch Test4
-
-Feature Branch Test5
-
-Feature Branch Test6
-
-Feature Branch Test7
